@@ -21,7 +21,7 @@ SQL (Structured Query Language)
 
 Relational Database Management System (RDBMS)
 
-MySQL / PostgreSQL (whichever was used, update accordingly)
+MySQL
 
 # Project Contributions #
 
